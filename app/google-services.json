@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "270989485653",
+    "firebase_url": "https://jdamusica-1ed6a.firebaseio.com",
+    "project_id": "jdamusica-1ed6a",
+    "storage_bucket": "jdamusica-1ed6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270989485653:android:b133a0b34be1e090",
+        "android_client_info": {
+          "package_name": "com.example.jdamusica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270989485653-5sp9q1a69hcp83kargn8udfcoo203b2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jdamusica",
+            "certificate_hash": "94ddee55e0694928b68508ae4149576e20a574ac"
+          }
+        },
+        {
+          "client_id": "270989485653-0fg8aq36gjhrnejmvtibig81u8aja7v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSh7o7fqCNGSV3f1jX7zLch7ne5IMpbcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270989485653-0fg8aq36gjhrnejmvtibig81u8aja7v2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
